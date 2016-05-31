@@ -9,6 +9,8 @@ A simple guide to writing TypeScript
 - How to format TypeScript?
 - TypeDoc?
 - Exporting typings with published package
+- How to watch tests?
+- Why `import * as React` instead of `import React`
 
 ### Todo
 
@@ -21,6 +23,7 @@ A simple guide to writing TypeScript
 ### Meta
 
 - Mention typings in cheat sheet
+- How to use React
 
 ## What is TypeScript
 
